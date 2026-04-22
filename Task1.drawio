@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Страница-1" id="Cp8W1UIC9Hyk50Z5jRKz">
-    <mxGraphModel dx="1585" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2060" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,20 +13,23 @@
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-7" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9SM9p0DyMWmi_qYMiIdC-13" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="9SM9p0DyMWmi_qYMiIdC-12">
+        <mxCell id="9SM9p0DyMWmi_qYMiIdC-13" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="395" />
               <mxPoint x="270" y="530" />
               <mxPoint x="425" y="530" />
             </Array>
+            <mxPoint x="425" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="Есть читательский билет?" vertex="1">
           <mxGeometry height="150" width="190" x="335" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="9SM9p0DyMWmi_qYMiIdC-36" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="9SM9p0DyMWmi_qYMiIdC-36" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Оформляем читательский билет" vertex="1">
           <mxGeometry height="60" width="120" x="535" y="500" as="geometry" />
@@ -34,60 +37,51 @@
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
           <mxGeometry height="50" width="110" x="505" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="9SM9p0DyMWmi_qYMiIdC-19" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-18" value="">
+        <mxCell id="9SM9p0DyMWmi_qYMiIdC-19" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ElQYQfz5aDRsotcbW7DY-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="654" />
+              <mxPoint x="580" y="839" />
+              <mxPoint x="580" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-25" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9SM9p0DyMWmi_qYMiIdC-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="654" />
-              <mxPoint x="270" y="800" />
-              <mxPoint x="425" y="800" />
+              <mxPoint x="270" y="839" />
+              <mxPoint x="270" y="985" />
+              <mxPoint x="425" y="985" />
             </Array>
-            <mxPoint x="424.38" y="724" as="sourcePoint" />
-            <mxPoint x="424.38" y="870" as="targetPoint" />
+            <mxPoint x="424.38" y="909" as="sourcePoint" />
+            <mxPoint x="424.38" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Есть ли нужная книга?" vertex="1">
-          <mxGeometry height="140" width="140" x="355" y="584" as="geometry" />
+          <mxGeometry height="140" width="140" x="355" y="770" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
           <mxGeometry height="30" width="60" x="275" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="9SM9p0DyMWmi_qYMiIdC-26" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9SM9p0DyMWmi_qYMiIdC-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="425" y="800" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9SM9p0DyMWmi_qYMiIdC-18" parent="1" style="whiteSpace=wrap;html=1;" value="Читатель выбирает другую книгу" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="770" as="geometry" />
-        </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="нет" vertex="1">
-          <mxGeometry height="30" width="60" x="505" y="630" as="geometry" />
+          <mxGeometry height="30" width="60" x="505" y="815" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="да" vertex="1">
-          <mxGeometry height="30" width="60" x="295" y="620" as="geometry" />
+          <mxGeometry height="30" width="60" x="295" y="805" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-29" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-28" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Система регистрирует выдачу" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="880" as="geometry" />
+          <mxGeometry height="60" width="120" x="365" y="1065" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-31" edge="1" parent="1" source="9SM9p0DyMWmi_qYMiIdC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Читатель получает книгу" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="990" as="geometry" />
+          <mxGeometry height="60" width="120" x="365" y="1175" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-30" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="410" y="1110" as="geometry" />
+          <mxGeometry height="30" width="30" x="410" y="1295" as="geometry" />
         </mxCell>
         <mxCell id="9SM9p0DyMWmi_qYMiIdC-32" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="415" y="90" as="geometry" />
@@ -96,6 +90,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ElQYQfz5aDRsotcbW7DY-2" edge="1" parent="1" source="ElQYQfz5aDRsotcbW7DY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9SM9p0DyMWmi_qYMiIdC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ElQYQfz5aDRsotcbW7DY-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Читатель выбирает книгу" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
